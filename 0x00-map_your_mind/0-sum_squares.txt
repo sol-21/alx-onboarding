@@ -1,0 +1,10 @@
+1.start
+2. read number N
+3. initialize variables sum = 0 and j = 1
+4. repeat step step 4 to step 6 untill j lessthan or equal to N
+5. calculate sum = sum plus j times j
+6. increase j by one 
+7. print sum
+8. end
+
+
