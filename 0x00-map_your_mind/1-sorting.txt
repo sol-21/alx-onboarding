@@ -1,0 +1,23 @@
+1.Start.
+
+2.Accept three numbers from input x, y, z
+
+3.If x < y  goto step 4 else goto step 8.
+
+4.If x < z then goto step 5 else goto step 7.
+
+5.If y < z then goto step 9 else goto step 6.
+
+6.Interchange y and z and goto step 9.
+
+7.Interchange x and z and goto step 3.
+
+8.Interchange x and y and goto step 3.
+
+9.Display sort order
+
+10.Display x, y, z.
+
+11.Stop.
+
+
